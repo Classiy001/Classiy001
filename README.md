@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 💎 How to reach me ...
 - 😝 My [Discord](https://discord.gg/hcSTHcMfve)
-- 🛑 [You Tube]()
+- 🛑 [You Tube](https://www.youtube.com/channel/UC-QIhtEAYEgMZJwsSWV6fQg)
 
 <!---
 Classiy001/Classiy001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
